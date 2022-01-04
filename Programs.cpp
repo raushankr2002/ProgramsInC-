@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cmath>
-using namespace std;
+using namespace std;cout
 int main()
 {
     //WAP To Check Given Number Is Prime or Not//
